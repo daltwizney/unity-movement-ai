@@ -6,6 +6,45 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Examples/2D/Flocking.unity
-    guid: 5976789efd09c5f4c89cccd6da4d538d
+    path: Assets/PsyanimTest/Scenes/Arrive.unity
+    guid: 3e20b80d8756fe042ab4ee725d822553
+  - enabled: 1
+    path: Assets/PsyanimTest/Scenes/CollisionAvoidance.unity
+    guid: 5e1465b4ac8dbfc4e9e8850716470d24
+  - enabled: 1
+    path: Assets/PsyanimTest/Scenes/Evade.unity
+    guid: 0080e17c37b89a54ca54fce4591d756f
+  - enabled: 1
+    path: Assets/PsyanimTest/Scenes/Flee.unity
+    guid: 178dd414808f68c49a52cfbd847cd78b
+  - enabled: 1
+    path: Assets/PsyanimTest/Scenes/Flocking.unity
+    guid: e361d7b2bd6042e4e9a68271e5f1033d
+  - enabled: 1
+    path: Assets/PsyanimTest/Scenes/FollowPath.unity
+    guid: e3edc8a71ace32b40af429fae7e33399
+  - enabled: 1
+    path: Assets/PsyanimTest/Scenes/Hide.unity
+    guid: 50896fbd458e932489804d6212073120
+  - enabled: 1
+    path: Assets/PsyanimTest/Scenes/Interpose.unity
+    guid: 4538f29d3dbecbe45996278badbb07ec
+  - enabled: 1
+    path: Assets/PsyanimTest/Scenes/OffsetPursuit.unity
+    guid: f528aab9a942f8045a2c4a2ae67cb62b
+  - enabled: 1
+    path: Assets/PsyanimTest/Scenes/Seek.unity
+    guid: 671f78706b0f631428732117075252d6
+  - enabled: 1
+    path: Assets/PsyanimTest/Scenes/Pursue.unity
+    guid: 6755cdf29579d0f49a0440ebf994406a
+  - enabled: 1
+    path: Assets/PsyanimTest/Scenes/WallAvoidance1.unity
+    guid: 259f43871f8350f45b2d22064e7ae994
+  - enabled: 1
+    path: Assets/PsyanimTest/Scenes/WallAvoidance2.unity
+    guid: 626b60ebea290784fb67380ec702e0f8
+  - enabled: 1
+    path: Assets/PsyanimTest/Scenes/Wander.unity
+    guid: 2b3f590fc2695724bbc0e56b2a6c07dc
   m_configObjects: {}
