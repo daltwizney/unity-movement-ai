@@ -30,7 +30,7 @@ public class PsyanimTestCanvas : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.K))
+        if (Input.GetKeyDown(KeyCode.K) || Input.GetMouseButtonDown(0))
         {
             _currentSceneIndex++;
 
