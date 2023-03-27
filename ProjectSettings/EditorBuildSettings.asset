@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/PsyanimTest/Scenes/Flocking.unity
+    guid: e361d7b2bd6042e4e9a68271e5f1033d
+  - enabled: 1
     path: Assets/PsyanimTest/Scenes/Arrive.unity
     guid: 3e20b80d8756fe042ab4ee725d822553
   - enabled: 1
@@ -17,9 +20,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/PsyanimTest/Scenes/Flee.unity
     guid: 178dd414808f68c49a52cfbd847cd78b
-  - enabled: 1
-    path: Assets/PsyanimTest/Scenes/Flocking.unity
-    guid: e361d7b2bd6042e4e9a68271e5f1033d
   - enabled: 1
     path: Assets/PsyanimTest/Scenes/FollowPath.unity
     guid: e3edc8a71ace32b40af429fae7e33399
@@ -48,12 +48,12 @@ EditorBuildSettings:
     path: Assets/PsyanimTest/Scenes/Wander.unity
     guid: 2b3f590fc2695724bbc0e56b2a6c07dc
   - enabled: 1
-    path: 
-    guid: 59581022e430f634da0b75b85c48139d
-  - enabled: 1
     path: Assets/PsyanimTest/Scenes/HideInteractive.unity
     guid: ac955a84f04d7c146b114279fe51b14d
   - enabled: 1
     path: Assets/PsyanimTest/Scenes/Flocking3D.unity
     guid: 7a66a2b0a551d8949aa08984195f4859
+  - enabled: 1
+    path: Assets/PsyanimTest/Scenes/InteractiveKillZones.unity
+    guid: b9670e92f603c9348be606311f95c482
   m_configObjects: {}
