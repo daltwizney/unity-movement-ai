@@ -10,6 +10,9 @@ public class PsyanimJSInterface : MonoBehaviour
     [DllImport("__Internal")]
     private static extern void SayHello();
 
+    [DllImport("__Internal")]
+    private static extern void SendCustomEventMessage(string message);
+
     // Start is called before the first frame update
     void Start()
     {
@@ -22,6 +25,10 @@ public class PsyanimJSInterface : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.L))
         {
             SayHello();
+        }
+        else if (Input.GetKeyDown(KeyCode.Semicolon))
+        {
+            SendCustomEventMessage("The current time is: " + Time.time);
         }
     }
 }

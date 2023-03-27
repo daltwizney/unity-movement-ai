@@ -1,6 +1,12 @@
 mergeInto(LibraryManager.library, {
 
     SayHello: function() {
-        window.alert("hello world o/");
+
+        window.HandleHelloMessage();
+    },
+
+    SendCustomEventMessage: function(msg) {
+
+        window.HandleCustomEventMessage(UTF8ToString(msg));
     }
 })
