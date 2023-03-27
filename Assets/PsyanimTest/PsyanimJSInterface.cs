@@ -26,7 +26,7 @@ public class PsyanimJSInterface : MonoBehaviour
         {
             SayHello();
         }
-        else if (Input.GetKeyDown(KeyCode.Semicolon))
+        else if (Input.GetKeyDown(KeyCode.M))
         {
             SendCustomEventMessage("The current time is: " + Time.time);
         }
