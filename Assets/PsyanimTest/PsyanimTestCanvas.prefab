@@ -255,6 +255,7 @@ MonoBehaviour:
   - Flocking3D
   - Hide
   - HideInteractive
+  - InteractiveKillZones
   - CollisionAvoidance
   - Arrive
   - Evade
