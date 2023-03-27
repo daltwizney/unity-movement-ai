@@ -48,6 +48,12 @@ EditorBuildSettings:
     path: Assets/PsyanimTest/Scenes/Wander.unity
     guid: 2b3f590fc2695724bbc0e56b2a6c07dc
   - enabled: 1
-    path: Assets/PsyanimTest/Scenes/Flocking3D.unity
+    path: 
     guid: 59581022e430f634da0b75b85c48139d
+  - enabled: 1
+    path: Assets/PsyanimTest/Scenes/HideInteractive.unity
+    guid: ac955a84f04d7c146b114279fe51b14d
+  - enabled: 1
+    path: Assets/PsyanimTest/Scenes/Flocking3D.unity
+    guid: 7a66a2b0a551d8949aa08984195f4859
   m_configObjects: {}
