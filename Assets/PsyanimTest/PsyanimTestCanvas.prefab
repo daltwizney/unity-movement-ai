@@ -251,13 +251,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scenes:
-  - Arrive
+  - Flocking
+  - Flocking3D
+  - Hide
+  - HideInteractive
   - CollisionAvoidance
+  - Arrive
   - Evade
   - Flee
-  - Flocking
   - FollowPath
-  - Hide
   - Interpose
   - OffsetPursuit
   - Pursue
@@ -265,8 +267,6 @@ MonoBehaviour:
   - WallAvoidance1
   - WallAvoidance2
   - Wander
-  - Flocking3D
-  - HideInteractive
   sceneNameTextField: {fileID: 951059293}
 --- !u!114 &1197958153
 MonoBehaviour:
