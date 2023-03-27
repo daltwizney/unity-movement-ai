@@ -265,6 +265,8 @@ MonoBehaviour:
   - WallAvoidance1
   - WallAvoidance2
   - Wander
+  - Flocking3D
+  - HideInteractive
   sceneNameTextField: {fileID: 951059293}
 --- !u!114 &1197958153
 MonoBehaviour:
